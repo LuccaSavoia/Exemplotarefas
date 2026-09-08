@@ -1,0 +1,16 @@
+:root{
+    --color1:blue;
+    --color2:#fff;
+    --bgColor1:greenyellow;
+}
+h1{
+    text-align: center;
+}
+
+
+.todo-container{
+    color:var(--color1)
+}
+.todo-input{
+    background: var(--bgColor1);
+}
